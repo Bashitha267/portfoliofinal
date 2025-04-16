@@ -16,8 +16,15 @@ const Projects = () => {
       title: "Portfolio",
       description:
         "My portfolio website showcases my skills and projects using React and React 3D models, creating an interactive and visually engaging experience. It highlights my expertise in full-stack development and passion for building dynamic web applications",
-      image: "",
-      link: "#",
+      image: "https://res.cloudinary.com/dnfbik3if/image/upload/v1744824052/Screenshot_2025-04-16_225033_zjun9w.png",
+      link: "https://nimeshbashitha.netlify.app/",
+    },
+    {
+      id: 3,
+      title: "Fashora",
+      description:"Fashora is a dynamic e-commerce website offering a wide variety of clothing for women, men, and kids, along with other fashionable items. Designed with a vibrant orange theme, the site provides a seamless shopping experience. Built with React, Node.js, and Tailwind CSS, Fashora delivers a modern and responsive platform for users to explore the latest fashion trends with ease.",
+      image: "https://res.cloudinary.com/dnfbik3if/image/upload/v1744824070/Screenshot_2025-04-16_224749_mlw35p.png",
+      link: "https://yourfashora.netlify.app/",
     },
   ];
 
