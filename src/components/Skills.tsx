@@ -9,16 +9,16 @@ const Skills = () => {
   const lastHoveredRef = useRef<HTMLElement | null>(null);
   const containerRef = useRef<HTMLDivElement>(null);
 
-  const skills = [
-    { name: 'React', icon: SimpleIcons.siReact, color: '#61DAFB' },
-    { name: 'Node.js', icon: SimpleIcons.siNodedotjs, color: '#339933' },
-    { name: 'MongoDB', icon: SimpleIcons.siMongodb, color: '#47A248' },
-    { name: 'TypeScript', icon: SimpleIcons.siTypescript, color: '#3178C6' },
-    { name: 'JavaScript', icon: SimpleIcons.siJavascript, color: '#FFFF00'},
-    { name: 'Python', icon: SimpleIcons.siPython, color: '#3178C6'},
-
-  ];
-
+const skills = [
+  { name: 'React', icon: SimpleIcons.siReact, color: '#61DAFB' },
+  { name: 'React Native', icon: SimpleIcons.siReact, color: '#61DAFB' },
+  { name: 'Expo', icon: SimpleIcons.siExpo, color: '#000020' },
+  { name: 'Node.js', icon: SimpleIcons.siNodedotjs, color: '#339933' },
+  { name: 'MongoDB', icon: SimpleIcons.siMongodb, color: '#47A248' },
+  { name: 'TypeScript', icon: SimpleIcons.siTypescript, color: '#3178C6' },
+  { name: 'JavaScript', icon: SimpleIcons.siJavascript, color: '#F7DF1E' },
+  { name: 'Python', icon: SimpleIcons.siPython, color: '#3776AB' }
+];
   const handleSkillHover = (e: React.MouseEvent<HTMLDivElement>) => {
     const currentTarget = e.currentTarget;
     const containerRect = containerRef.current?.getBoundingClientRect();
