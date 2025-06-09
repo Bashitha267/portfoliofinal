@@ -72,7 +72,7 @@ const Projects = () => {
                 <img
                   src={project.image}
                   alt={project.title}
-                  className="w-full h-48 object-contain transform transition-transform duration-500"
+                  className="w-full h-48 object-cover transform transition-transform duration-500"
                 />
               </motion.div>
               <div className="p-6">
