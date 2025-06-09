@@ -30,7 +30,7 @@ const Projects = () => {
       id: 4,
       title: "Slick Styles App",
       description:"This sleek shopping app offers a fully functional e-commerce experience powered by the Fake Store API. Built using React Native with Expo, the app features a clean and intuitive UI for browsing a wide range of products across various categories. Users can explore item details, add products to their cart, and simulate a real shopping experience. Optimized for mobile performance, the app demonstrates core e-commerce functionalities like dynamic routing, state management, and responsive layouts — making it a perfect showcase for full-stack development skills and mobile UI/UX design.",
-      image: "https://res.cloudinary.com/dnfbik3if/image/upload/v1749460240/thumbnail_new_y5w7jk.jpg",
+      image: "https://res.cloudinary.com/dnfbik3if/image/upload/v1749461093/White_Beige_Minimalist_Photoshoot_Fashion_Photo_Collage_iyhbuy.jpg",
       link: "https://www.linkedin.com/posts/nimesh-bashitha_reactnative-mobiledevelopment-expo-activity-7336022269820878848-f0Rs?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFU9j4cBQ1Fc7ozQxEhJ6V58TUcH-8smueA",
       
     }
