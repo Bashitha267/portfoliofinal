@@ -33,6 +33,14 @@ const Projects = () => {
       image: "https://res.cloudinary.com/dnfbik3if/image/upload/v1749461093/White_Beige_Minimalist_Photoshoot_Fashion_Photo_Collage_iyhbuy.jpg",
       link: "https://www.linkedin.com/posts/nimesh-bashitha_reactnative-mobiledevelopment-expo-activity-7336022269820878848-f0Rs?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFU9j4cBQ1Fc7ozQxEhJ6V58TUcH-8smueA",
       
+    },
+    {
+      id: 5,
+      title: "Movie App",
+      description:"Movie Explorer is a sleek, cross-platform mobile app built with React Native and Expo, integrating the TMDB (The Movie Database) API to deliver real-time movie data. The app offers an immersive experience for users to explore trending films, search by genre, and view detailed movie and cast information.",
+      image: "https://res.cloudinary.com/dnfbik3if/image/upload/v1751431650/White_Beige_Minimalist_Photoshoot_Fashion_Photo_Collage_xcrdb5.jpg",
+      link: "https://www.linkedin.com/posts/nimesh-bashitha_movie-explorer-react-native-app-using-activity-7345864493639299074-TTqg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFU9j4cBQ1Fc7ozQxEhJ6V58TUcH-8smueA",
+      
     }
   ];
 
