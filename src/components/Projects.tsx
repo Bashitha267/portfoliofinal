@@ -41,6 +41,14 @@ const Projects = () => {
       image: "https://res.cloudinary.com/dnfbik3if/image/upload/v1751431650/White_Beige_Minimalist_Photoshoot_Fashion_Photo_Collage_xcrdb5.jpg",
       link: "https://www.linkedin.com/posts/nimesh-bashitha_movie-explorer-react-native-app-using-activity-7345864493639299074-TTqg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFU9j4cBQ1Fc7ozQxEhJ6V58TUcH-8smueA",
       
+    },
+        {
+      id: 6,
+      title: "Bite POS System",
+      description:"BitePOS is a modern restaurant billing system built with React and Supabase, designed for smooth operation on both Windows desktops and touch-based tablets. It features a dynamic order panel with quantity controls, real-time total calculation, and a clean, responsive UI. Optimized for performance and ease of use, BitePOS offers a fast, lightweight solution for managing orders efficiently in restaurant environments.",
+      image: "https://res.cloudinary.com/dnfbik3if/image/upload/v1752906830/Screenshot_2025-07-19_115936_pneuf5.png",
+      link: "https://bitepos.netlify.app/",
+      
     }
   ];
 
