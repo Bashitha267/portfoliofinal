@@ -130,7 +130,7 @@ const Home: React.FC<HomeProps> = ({ backgroundY, opacity, parallaxY }) => {
               }}
             />
             <motion.img
-              src="https://res.cloudinary.com/dnfbik3if/image/upload/v1747314247/2022CSC023Bashitha.jpeg_bw5woe.jpg"
+              src="https://res.cloudinary.com/dnfbik3if/image/upload/v1753176287/Untitled_design_7_f94qo8.jpg"
               alt="Hero Image"
               className="w-full h-full object-contain rounded-2xl shadow-2xl relative z-10"
               style={{
